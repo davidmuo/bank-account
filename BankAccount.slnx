@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/BankAccount.App/BankAccount.App.csproj" />
+    <Project Path="src/BankAccount.Ui/BankAccount.Ui.csproj" />
     <Project Path="src/BankAccount/BankAccount.csproj" />
   </Folder>
   <Folder Name="/tests/">
